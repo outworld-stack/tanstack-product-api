@@ -17,7 +17,8 @@ connectDB();
 //cors config
 const allowedOrigins = [
     'http://localhost:3000',
-    'https://tanstack-product-front.netlify.app'
+    'https://tanstack-product-front.netlify.app',
+    'https://tanstack-product.liara.run'
 ]
 
 
